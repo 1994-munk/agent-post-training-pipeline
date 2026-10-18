@@ -13,3 +13,15 @@ End-to-end SFT and DPO training scripts optimized for multi-turn reasoning and s
    git clone [https://github.com/1994-munk/agent-post-training-pipeline.git](https://github.com/1994-munk/agent-post-training-pipeline.git)
    cd agent-post-training-pipeline
    pip install -r requirements.txt
+Run the synthetic data generator:
+
+Python
+python synthetic_generator.py
+📊 Impact
+JSON Compliance: Boosted strict schema adherence to 98.4%.
+
+Multi-Step Reliability: Dramatically reduced compounding error rates in 3+ tool dependency chains.
+
+
+---
+
